@@ -11,5 +11,5 @@ Here're some things about me 🧐
 - 🔭 I love getting to know space, mostly about Saturn 
 
 *****
-# ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MelissaPerez09&count_private=true&show_icons=true&theme=omni)
-# ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaPerez09&layout=compact&theme=omni&langs_count=10)
+# ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MelissaPerez09&count_private=true&show_icons=true&theme=null)
+# ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaPerez09&layout=compact&theme=null&langs_count=10)
